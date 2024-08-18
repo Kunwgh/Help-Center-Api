@@ -1,0 +1,16 @@
+{
+  "name": "help-center-api",
+  "version": "1.0.0",
+  "description": "A RESTful API for managing Help Center cards",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.3"
+  }
+}
